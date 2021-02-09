@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    color:blanchedalmond
+}
+
+.color-hover{
+    margin: auto;
+    margin-top: 80px;
+    width: 30%;
+    padding: 50px;
+}
+
+.color{
+    margin: auto;
+    float: left;
+    border-radius: 1px;
+    height: 30px;
+    width: 80px;
+}
+.red{
+    background-color: red;
+}
+
+.cyan{
+    background-color: cyan;
+}
+
+.orange{
+    background-color:orange ;
+}
+.blue{
+    background-color: blue;
+}
+
+.center{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
